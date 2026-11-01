@@ -4,7 +4,7 @@
 
 I build AI automations that run unattended for small businesses in the US and Brazil, and I keep them running in production: discovery with the owner, build, deploy, support. Claude Code (with MCP tools) is my daily development environment.
 
-🎥 **2-minute portfolio video:** coming soon
+🎥 **2-minute portfolio video:** [watch on YouTube](https://youtu.be/bme30SUeiic)
 
 ---
 
